@@ -4,3 +4,5 @@ test.txt added.
 3
 4
 added text2.
+さらに追加っす。
+
